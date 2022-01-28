@@ -9,13 +9,13 @@ public class Rectangle extends Shape {
 
     // 1st constructor
     public Rectangle(int x, int y) {
-        // always: this() must be the first line!
+        // this() must be the first line always!
         this(x, y, 0, 0); // calls the second constructor
     }
 
     // 2nd constructor
     public Rectangle(int x, int y, int width, int height) {
-        // always: super() must be the first line!
+        // super() must be the first line  always!
         super(x, y); // calls the constructor from parent (Shape)
         this.width = width;
         this.height = height;
