@@ -1,4 +1,4 @@
-package inharitance;
+package inheritance;
 
 public class Rectangle extends Shape {
 
