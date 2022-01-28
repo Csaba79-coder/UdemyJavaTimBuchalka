@@ -1,4 +1,4 @@
 # UdemyJavaTimBuchalka
-Constructor, Inharitance, Composition, Encapsulation and Polymorphism
+Constructor, Inheritance, Composition, Encapsulation and Polymorphism
 
 learinng from Udemy and practice
